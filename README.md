@@ -1,4 +1,4 @@
-# 🚀 Devyani Keche — Portfolio
+# 🚀 Devyani Keche - Portfolio
 
 Welcome to my personal portfolio repository!  
 This project showcases my work, skills, and projects as a **Web Developer & Tech Enthusiast**, with a focus on building clean, scalable, and user-friendly applications.
