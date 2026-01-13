@@ -11,7 +11,7 @@ const experiences = [
   logo: vnit,
   company: "VNIT Research Internship",
   role: "Machine Learning Research Intern",
-  period: "Jan 2025 – Present",
+  period: "Dec 2025 – Present",
   location: "VNIT, Nagpur",
   socials: [
     { icon: Globe, url: "https://vnit.ac.in/" },
